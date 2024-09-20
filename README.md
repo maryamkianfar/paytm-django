@@ -8,6 +8,7 @@ git clone https://github.com/harishbisht/paytm-django.git
 ```
 * Now create a virtual environment
 ```javascript
+
 virtualenv paytm
 ```
 * Now activate the virtual environment
